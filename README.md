@@ -1,6 +1,6 @@
 # Marília Borgo de Moraes
 
-![Marília Borgo de Moraes](assets/20260217_190335-EDIT.jpg)
+<img src="assets/20260217_190335-EDIT.jpg" alt="Marília Borgo de Moraes" width="200" style="border: 3px solid #1a73e8; border-radius: 12px;" />
 
 Sou Marília Borgo de Moraes, estudante de Banco de Dados na FATEC. Minha trajetória acadêmica e profissional é marcada pelo desenvolvimento de soluções inovadoras na área de tecnologia. Ao longo da formação, participei de diversos projetos, abrangendo desde o desenvolvimento de sistemas web até a extração e análise de dados por meio de web scraping. Ingressei na FATEC já atuando como desenvolvedora, com o propósito de aprimorar minhas habilidades técnicas e fortalecer minha base acadêmica, impulsionando meu crescimento como desenvolvedora full-stack.
 
