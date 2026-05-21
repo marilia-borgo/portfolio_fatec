@@ -1,6 +1,6 @@
 ### Quarto Semestre (2025-1)
 
-O projeto desenvolvido no quarto semestre, denominado **TerraVision**, foi realizado no âmbito do curso de Banco de Dados e teve como parceira a **Visiona Espacial**.
+O projeto desenvolvido no quarto semestre, denominado **TerraVision**, foi realizado no âmbito do curso de Banco de Dados e teve como parceira a **Visiona Tecnologia Espacial**, joint-venture entre a Embraer Defesa & Segurança e a Telebras, especializada em integração de sistemas espaciais, sensoriamento remoto e serviços baseados em satélites aplicados a setores como agricultura, defesa e meio ambiente.
 
 **Problema**
 

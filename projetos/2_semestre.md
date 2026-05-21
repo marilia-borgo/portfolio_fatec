@@ -1,6 +1,6 @@
 ### Segundo Semestre (2024-1)
 
-O projeto desenvolvido no segundo semestre do curso é a continuação do trabalho iniciado no período anterior e teve como empresa parceira a própria Fatec. Os requisitos foram apresentados pelo professor Lucas Nadalete, que assumiu o papel de cliente final.
+O projeto desenvolvido no segundo semestre do curso é a continuação do trabalho iniciado no período anterior e teve como empresa parceira a própria Fatec. Os requisitos foram apresentados pelo professor Emanuel Mineda, que assumiu o papel de cliente final.
 
 **Problema**
 

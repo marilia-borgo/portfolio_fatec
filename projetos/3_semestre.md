@@ -1,6 +1,6 @@
 ### Terceiro Semestre (2024-2)
 
-Durante o terceiro semestre, o projeto foi desenvolvido em parceria com a empresa GSW e focado em soluções de coleta de dados para análise de mercado.
+Durante o terceiro semestre, o projeto foi desenvolvido em parceria com a **GSW**, empresa de tecnologia especializada em desenvolvimento de soluções integradas para gestão empresarial, atuando em áreas como ERP, CRM, gestão tributária, BPO fiscal e contábil e fábrica de software.
 
 **Problema**
 
